@@ -1,0 +1,13 @@
+population,task,observed,predicted
+Healthy,FEV1_next,3.10,3.02
+Healthy,FVC_next,4.02,3.95
+Healthy,ratio_next,0.77,0.75
+Healthy,interval_rapid_decline,0,0.12
+Healthy,interval_FVC_rapid_decline,0,0.18
+Healthy,interval_ratio_rapid_decline,0,0.08
+COPD,FEV1_next,1.84,1.92
+COPD,FVC_next,3.11,3.02
+COPD,ratio_next,0.59,0.62
+COPD,interval_rapid_decline,1,0.72
+COPD,interval_FVC_rapid_decline,0,0.26
+COPD,interval_ratio_rapid_decline,0,0.21

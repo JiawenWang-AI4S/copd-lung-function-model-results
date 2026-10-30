@@ -1,0 +1,7 @@
+task,estimator,alpha_or_C,solver,max_iter
+FEV1_next,Ridge,0.1,auto,default
+FVC_next,Ridge,0.1,auto,default
+ratio_next,Ridge,0.1,auto,default
+interval_rapid_decline,LogisticRegression,0.1,lbfgs,3000
+interval_FVC_rapid_decline,LogisticRegression,0.01,lbfgs,3000
+interval_ratio_rapid_decline,LogisticRegression,0.1,lbfgs,3000
